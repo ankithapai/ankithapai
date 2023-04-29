@@ -4,8 +4,8 @@
 - 💰 Working as Front-End Developer [SDE]
 - 📫 How to reach me ankithapai3@gmail.com
 
-Technologies 💻 - HTML5, CSS3, JS, TS, Angular 13, C++, Python, Java, Springboot
-Tools ⚙ - Git(version control), GitHub, Jira, Docker, Postman, VS Code
+Technologies 💻 - HTML5, CSS3, JS, TS, Angular 13, Java, Springboot, ReactJS, C++, Python,
+Tools ⚙ - Git(version control), GitHub, Jira, Docker, Postman, PgAdmin, VS Code
 
 <!---
 ankithapai/ankithapai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
