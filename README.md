@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ankithapai
+- 👩‍💻 SWE Intern at Lumen Technologies, Tempe, AZ
 - 👩‍🎓 Currently a gratuate student at Arizona State University pursuing Computer Science.
 - 🌱 Always curious to learn new tech stack
 - 💰 Experinced working as a full-stack developer.
